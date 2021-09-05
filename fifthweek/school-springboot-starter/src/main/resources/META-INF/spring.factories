@@ -1,0 +1,2 @@
+amework.boot.autoconfigure.EnableAutoConfiguration=\
+com.homework.starter.SchoolAutoConfiguration
